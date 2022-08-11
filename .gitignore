@@ -1,0 +1,11 @@
+
+.prettierrc
+.vscode/launch.json
+aiscripting.code-workspace
+node_modules/.package-lock.json
+node_modules/myscript.ts
+node_modules/types-for-adobe/AfterEffects/10.5/index.d.ts
+node_modules/types-for-adobe/AfterEffects/10.5/tsconfig.json
+node_modules/types-for-adobe/AfterEffects/11.0/index.d.ts
+node_modules/types-for-adobe/AfterEffects/11.0/tsconfig.json
+node_modules/types-for-adobe/AfterEffects/12.0/index.d.ts
